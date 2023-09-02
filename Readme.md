@@ -1,4 +1,4 @@
-An android app which returns details of a movie such as actors, producers, release year etc when the user performs a search. It uses OMDb (Open Mobile Database) which is a Restful API, to obtain the details.
+A web app which returns details of a movie such as actors, producers, release year etc when the user performs a search. It uses OMDb (Open Mobile Database) which is a Restful API, to obtain the details.
 
 [visit this app](https://app-moviefinder.netlify.app/)
 
