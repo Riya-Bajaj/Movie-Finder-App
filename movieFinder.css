@@ -40,6 +40,7 @@ input:focus {
     width: 700px;
     margin: 40px auto;
     display: flex;
+    gap: 10px;
     justify-content: space-between;
     color: rgba(254, 242, 229, 0.892);
 }
