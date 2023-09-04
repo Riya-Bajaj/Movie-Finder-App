@@ -18,7 +18,7 @@ let ratings = document.getElementById('ratings');
 let poster = document.getElementById('poster');
 let writer = document.getElementById('writer');
 
-let api = 'http://www.omdbapi.com/?apikey=c32b3953&t='
+let api = 'https://www.omdbapi.com/?apikey=c32b3953&t='
 
 function showLoader() {
     loader.style.display = 'block';
